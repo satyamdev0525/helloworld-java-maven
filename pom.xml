@@ -48,6 +48,7 @@
         <name>bf25c3ac0cd4-snapshots</name>
         <url>http://13.127.200.47:8081/nexus/content/repositories/mphsnap/</url>
 </snapshotRepository>
+	
 </distributionManagement>
 
 
